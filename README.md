@@ -4,6 +4,8 @@ My master's thesis about cyber situational awareness.
 The main goal of this thesis was to find out the way for perfect cyber situational awareness for network admins. However, there are a lot of factor in real life affecting perfect security. In this thesis I reviewed 3 important layers to reach to the main goal of information security: perfectly secure systems without any breaches. Of course this will not happen easily since human beings are analysing the data (logs, IPS, Firewalls... etc. ). Therefore, security is an important issue which needs to be worked on phase by phase. 
 
 
+Download Link: https://calhoun.nps.edu/handle/10945/52997
+
 ABSTRACT:
 
 Although there are many well-established cyber security tools and techniques available to network
